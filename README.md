@@ -1,4 +1,4 @@
-# appcmd-iis-adddomain
+# appcmd-iis-add-domain
 
 domains.txt 定义文件格式
 
